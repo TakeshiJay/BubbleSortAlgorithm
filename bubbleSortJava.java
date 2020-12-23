@@ -1,6 +1,10 @@
 import java.util.*;
 import java.io.*;
-
+/**
+ * This progam bubble sorts an array of integers and prints the sorted list
+ * @author Jacob Sunia 
+ * @version 0.0.1
+ */
 public class bubbleSortJava {
     public static void main(String [] args){
         //Pracice Array
