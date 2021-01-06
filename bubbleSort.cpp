@@ -1,7 +1,10 @@
 #include <algorithm>
 #include <iostream>
 #include <stdio.h>
-
+/** Bubble sort algorithm for C++ using pointers
+* @author Jacob Sunia
+* 1/5/2021
+*/
 using namespace std;
 
 /** This function swaps the item if the item is greater than the next
